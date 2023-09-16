@@ -1,1 +1,1 @@
-# Path-following-Drone
+This project revolves around an autonomous drone specially designed to follow a predefined path. The lane configuration is unique,  with my name placed on the XY axis and my roll number on the YZ axis. In addition, I created a simulated environment similar to a  parking lot. The drone code is carefully designed to  accurately track my name in the XY plane and my roll number in the YZ plane.
